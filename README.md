@@ -62,7 +62,7 @@ The agent uses an explicit "completion criteria" loop — it does not stop until
 ### 1. Clone the repository
 
 ```bash
-git clone (https://github.com/Rishi-Kora/CareerCraft.git)
+git clone https://github.com/Rishi-Kora/CareerCraft.git
 cd CareerCraft
 ```
 
