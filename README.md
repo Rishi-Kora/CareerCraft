@@ -62,7 +62,7 @@ The agent uses an explicit "completion criteria" loop — it does not stop until
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/CareerCraft.git
+git clone [https://github.com/<your-username>/CareerCraft.git](https://github.com/Rishi-Kora/CareerCraft.git)
 cd CareerCraft
 ```
 
@@ -71,7 +71,7 @@ cd CareerCraft
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate          # macOS / Linux
-# .venv\Scripts\activate            # Windows
+.venv\Scripts\activate            # Windows
 ```
 
 ### 3. Install dependencies
@@ -193,4 +193,6 @@ MODEL = "gpt-4o-mini"      # change to any OpenAI chat model you have access to
 
 ## License
 
-Released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to fork, adapt, and use as a learning starting point for your own AI agents.
+Released under the [MIT License](https://opensource.org/licenses/MIT). 
+
+Feel free to fork, adapt, and use as a learning starting point for your own AI agents.
